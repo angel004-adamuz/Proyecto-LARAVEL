@@ -12,3 +12,8 @@ Vamos a plantear el proyecto usando xampp y laravel.
 Usamos el IDE CLOUD FIREBASE, para crear el proyecto y generar el codigo, al encontrarnos con dificultades, vamos a hacerlo en local.
 
 Vamos a crear un dashboard de nuestro gestor de centros.
+
+No hemos podido conectar la base de datos por diversos errores que no sabemos solucionar y no podemos guardar los centros.
+![image](https://github.com/user-attachments/assets/cc9b6218-e00c-4c55-91cd-eb8c35f013ac)
+![image](https://github.com/user-attachments/assets/028a34fa-5441-41e1-9195-3d8758ca53f7)
+
